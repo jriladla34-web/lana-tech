@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://jriladla34-web.github.io/lana-tech
+Sitemap: https://jriladla34-web.github.io/lana-tech/sitemap.xml
